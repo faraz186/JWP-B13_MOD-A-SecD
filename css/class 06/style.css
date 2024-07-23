@@ -7,7 +7,7 @@ div {
   border: 15px solid blue;
   border-width: 15px;
   border-style: ridge;
-  border-color: red;  
+  border-color: red;     
   border-top-color: green;
   border-bottom-color: black;
 }
