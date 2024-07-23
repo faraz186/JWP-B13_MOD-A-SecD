@@ -1,0 +1,70 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+div {
+  border: 15px solid blue;
+  border-width: 15px;
+  border-style: ridge;
+  border-color: red;
+  border-top-color: green;
+  border-bottom-color: black;
+}
+
+table {
+  border: 2px solid green;
+  padding: 5px;
+}
+
+td {
+  border: 2px solid green;
+}
+
+div {
+  border: 2px groove red;
+  padding: 10px;
+}
+
+p {
+  border: 2px ridge blue;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-left: 50px;
+  padding-right: 60px;
+  padding: 20px 60px 30px 50px;
+}
+
+div {
+  border: 2px solid red;
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: 50px;
+  width: 300px;
+  margin: auto auto;
+}
+
+p {
+  border: 2px solid blue;
+  padding: 5px;
+}
+
+li {
+  background-color: orange;
+  margin: 5px;
+  padding: 15px;
+  display: inline-block;
+  width: 100px;
+  height: 50px;
+}
+
+.list2 {
+  visibility: visible;
+}
+
+a {
+  background-color: black;
+  color: white;
+  display: block;
+  margin: 5px;
+}
