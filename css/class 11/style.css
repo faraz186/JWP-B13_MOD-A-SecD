@@ -1,0 +1,99 @@
+/* div {
+  background: linear-gradient(to left, red, green, yellow);
+
+  background-image: linear-gradient(
+      rgba(154, 234, 132, 0.5),
+      rgba(36, 65, 232, 0.5)
+    ),
+    url("https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3NrOTc5MS1pbWFnZS1rd3Z1amE5Ni5qcGc.jpg");
+  background-size: cover;
+  color: white;
+  width: 600px;
+  height: 450px;
+} */
+
+.parent {
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 30px;
+  column-gap: 30px;
+}
+
+.div1 {
+  background-color: green;
+  width: 300px;
+  font-size: 60px;
+  height: 200px;
+}
+
+.div2 {
+  background-color: red;
+  width: 300px;
+  height: 200px;
+  font-size: 60px;
+}
+
+.div3 {
+  background-color: blue;
+  width: 300px;
+  height: 200px;
+  font-size: 60px;
+}
+
+.div4 {
+  background-color: orangered;
+  width: 300px;
+  height: 200px;
+  font-size: 60px;
+}
+
+body {
+  background-color: rgb(125, 234, 234);
+}
+
+/* h1 {
+  color: red;
+  background-color: black;
+  width: 100%;
+}
+
+p {
+  color: white;
+  background-color: black;
+  font-size: 22px;
+} */
+
+/* Media Query */
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightgreen;
+  }
+
+  h1 {
+    background-color: blue;
+    color: white;
+    width: 90%;
+    text-align: center;
+    padding: 5px;
+    box-shadow: 5px 5px 5px rgb(122, 122, 235);
+  }
+
+  p {
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 5px;
+  }
+}
+
+/* Media Query using flexbox*/
+
+@media only screen and (max-width: 665px) {
+  .div1,
+  .div2,
+  .div3,
+  .div4 {
+    width: 100%;
+  }
+}
