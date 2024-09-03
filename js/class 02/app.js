@@ -10,7 +10,7 @@ console.log(abc + " " + num);
 
 // Number;
 // String;
-// undefined
+// undefined  
 
 alert("Muhammad faraz");
 
