@@ -15,7 +15,7 @@ console.log(abc + " " + num);
 alert("Muhammad faraz");
 
 var firstname = "Muhammad";
-
+   
 var lastname = "faraz";  
 
 console.log(firstname + " " + lastname);
