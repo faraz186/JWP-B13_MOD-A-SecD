@@ -16,7 +16,7 @@ alert("Muhammad faraz");
 
 var firstname = "Muhammad";
 
-var lastname = "faraz";
+var lastname = "faraz";  
 
 console.log(firstname + " " + lastname);
 
