@@ -17,7 +17,7 @@ alert("Muhammad faraz");
 var firstname = "Muhammad";
    
 var lastname = "faraz";  
-
+  
 console.log(firstname + " " + lastname);
 
 var fullname = "Muhammad faraz";
