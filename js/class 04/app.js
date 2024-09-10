@@ -118,11 +118,17 @@ else {
 
 
 var a = null;
+var a = false;
+var a = undefined;
+var a = true;
+var a = 1;
+var a = 0;
+
 
 if (a) {
-  console.log("if call..");
+  console.log("if statement call..");
 } else {
-  console.log("else call..");
+  console.log("else statement call..");
 }
 
 
