@@ -13,10 +13,10 @@ console.log(
    is ${email}`
 );
 
+
 var name = "Muhammad Faraz";
 
 console.log(`My name is ${name}`);
-
 
 
 // Template Literals
