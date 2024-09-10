@@ -63,6 +63,9 @@ if (city === "karachi") {
   alert("welcome you live in " + city);
 }
 
+// --------------------------------------------------------------------------------
+
+
 var age = +prompt("Enter your age");
 
 if (age >= 18) {
