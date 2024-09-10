@@ -74,6 +74,8 @@ if (age >= 18) {
   console.log("you are not eligible for CNIC");
 }
 
+
+
 var gender = prompt("Enter your gender");
 var message;
 
@@ -86,6 +88,9 @@ if (gender === "female") {
 }
 
 alert(message);
+
+
+
 
 var rollno = +prompt("Enter your Roll no");
 
