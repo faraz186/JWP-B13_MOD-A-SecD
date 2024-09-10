@@ -142,6 +142,8 @@ else if (gender === "female") {
 
 alert(message);
 
+
+
 var percentage = +prompt("Enter your percentage");
 
 if (percentage <= 50) {
@@ -157,6 +159,9 @@ if (percentage <= 50) {
 } else {
   alert("incorrect");
 }
+
+
+
 
 var userInput = +prompt("Enter any number");
 
