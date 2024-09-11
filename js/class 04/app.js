@@ -16,7 +16,7 @@ console.log(
 
 var name = "Muhammad Faraz";
 
-console.log(`My name is ${name}`);
+console.log(`My name is ${name}`);  
 
 
 // Template Literals
