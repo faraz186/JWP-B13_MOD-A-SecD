@@ -1,5 +1,5 @@
 var username = prompt("Enter your username");
-
+  
 var email = prompt("Enter your email");
 
 var name = prompt("Enter your name");
