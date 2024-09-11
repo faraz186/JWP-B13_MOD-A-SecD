@@ -6,7 +6,7 @@ var name = prompt("Enter your name");
 
 console.log(
   `Welcome user! your name
-  is ${name}.
+  is ${name}.  
   My username is  
   ${username} and
    my email address  
