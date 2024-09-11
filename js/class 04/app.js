@@ -39,7 +39,7 @@ document.write(`${userInput} x 1 = ${userInput * 1} <br>
 
 `);
 
-// parenthesis
+//   () ====> parenthesis
 
 // datatypes
 
