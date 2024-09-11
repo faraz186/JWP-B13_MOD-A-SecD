@@ -35,7 +35,7 @@ document.write(`${userInput} x 1 = ${userInput * 1} <br>
    ${userInput} x 7 = ${userInput * 7} <br>
    ${userInput} x 8 = ${userInput * 8} <br>
    ${userInput} x 9 = ${userInput * 9} <br>
-   ${userInput} x 10 = ${userInput * 10} <br>
+   ${userInput} x 10 = ${userInput * 10} <br>  
 
 `);
 
