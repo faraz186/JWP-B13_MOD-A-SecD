@@ -29,7 +29,7 @@ document.write("<h1>Multiplication Table</h1>");
 document.write(`${userInput} x 1 = ${userInput * 1} <br>
    ${userInput} x 2 = ${userInput * 2} <br>
    ${userInput} x 3 = ${userInput * 3} <br>
-   ${userInput} x 4 = ${userInput * 4} <br>
+   ${userInput} x 4 = ${userInput * 4} <br>   
    ${userInput} x 5 = ${userInput * 5} <br>
    ${userInput} x 6 = ${userInput * 6} <br>
    ${userInput} x 7 = ${userInput * 7} <br>
