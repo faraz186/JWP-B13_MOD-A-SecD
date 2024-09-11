@@ -9,7 +9,7 @@ console.log(
   is ${name}.
   My username is  
   ${username} and
-   my email address
+   my email address  
    is ${email}`
 );
 
