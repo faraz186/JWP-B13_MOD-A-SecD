@@ -14,7 +14,7 @@ console.log(
 );
 
 
-var name = "Muhammad Faraz";
+var name = "Muhammad Faraz";  
 
 console.log(`My name is ${name}`);  
 
