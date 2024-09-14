@@ -68,7 +68,7 @@ else {
 
 
 var res = prompt("Enter resident");
-
+   
 if (res === "U.S.") {
   var age = +prompt("Enter your age");
   if (age > 65 || age < 21) {
