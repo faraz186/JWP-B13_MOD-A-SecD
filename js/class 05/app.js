@@ -17,7 +17,7 @@ if (percentage <= 50) {
 
 
 var maths = +prompt("Enter your maths marks");  
-var english = +prompt("Enter your english marks");
+var english = +prompt("Enter your english marks");  
 var computer = +prompt("Enter your computer marks");  
 
 var totalMarks = 300;
