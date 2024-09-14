@@ -11,7 +11,7 @@ if (percentage <= 50) {
 } else if (percentage <= 100) {   
   alert("YOur grade is A+");
 } else {
-  alert("incorrect");
+  alert("incorrect");  
 }
 
 
