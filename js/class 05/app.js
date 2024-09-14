@@ -60,7 +60,7 @@ var gender = prompt("Enter your gender");
 if (userWeight <= 100 && time < 6 && gender) {
   console.log("come to our tryout!!");
 } 
-
+   
 else {
   console.log("better luck next time!!");
 }
