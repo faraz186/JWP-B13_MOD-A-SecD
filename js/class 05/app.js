@@ -1,4 +1,4 @@
-var percentage = +prompt("Enter your percentage");
+var percentage = +prompt("Enter your percentage");  
 
 if (percentage <= 50) {
   alert("YOur grade is D");
