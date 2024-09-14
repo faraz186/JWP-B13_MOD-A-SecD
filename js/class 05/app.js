@@ -130,7 +130,7 @@ var num5 = 50;
 
 var num = [10, 20, 30, 40, 50, 60];
 
-var mixedValues = [10, "faraz", true, 40, undefined, 60];
+var mixedValues = [10, "faraz", true, 40, undefined, 60];  
 
 console.log(mixedValues[8]);
 
