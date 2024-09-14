@@ -73,7 +73,7 @@ if (res === "U.S.") {
   var age = +prompt("Enter your age");
   if (age > 65 || age < 21) {
     console.log("allow..");
-  } else {
+  } else { 
     console.log("not allow..");
   }
 } else {
