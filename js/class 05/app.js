@@ -8,7 +8,7 @@ if (percentage <= 50) {
   alert("YOur grade is B");
 } else if (percentage <= 79) {
   alert("YOur grade is A");
-} else if (percentage <= 100) {
+} else if (percentage <= 100) {   
   alert("YOur grade is A+");
 } else {
   alert("incorrect");
