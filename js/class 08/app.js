@@ -31,7 +31,7 @@ var indexNum = text.indexOf("Arabian Sea");
 
 var startingText = text.slice(0, 191);
 
-var replacingText = "pacific ocean";
+var replacingText = "pacific ocean";  
 
 var remainText = text.slice(indexNum + 11);
 
