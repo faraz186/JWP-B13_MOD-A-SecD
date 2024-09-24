@@ -35,7 +35,7 @@ var replacingText = "pacific ocean";
 
 var remainText = text.slice(indexNum + 11);
 
-console.log(startingText + replacingText + remainText);
+console.log(startingText + replacingText + remainText);  
 
 for (var i = 0; i < text.length; i++) {
   if (text.slice(i, i + 11) === "Arabian Sea") {
