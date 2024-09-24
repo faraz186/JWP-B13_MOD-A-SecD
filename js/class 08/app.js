@@ -10,6 +10,7 @@ for (var i = 1; i < numChars; i++) {
   }
 }
 
+
 var text = `The New Yorker magazine doesn't
 allow the phrase World War II.  They say
 it should be World War II`;
