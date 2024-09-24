@@ -15,7 +15,7 @@ var text = `The New Yorker magazine doesn't
 allow the phrase World War II.  They say
 it should be World War II`;
   
-console.log(text.replaceAll("World War II", "The Second World War"));
+console.log(text.replaceAll("World War II", "The Second World War"));  
 
 var indexNum = text.indexOf("World War II");
 
