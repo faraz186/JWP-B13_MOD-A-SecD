@@ -1,4 +1,4 @@
-// // Chapter no 22 (String extracting methods)
+// // Chapter no 22 (String extracting methods)  
 
 var str = prompt("Enter some text");
 
