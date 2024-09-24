@@ -22,7 +22,7 @@ var indexNum = text.indexOf("World War II");
 var startingText = text.slice(0, 50);
 
 var replacingText = "The Second World War";
-
+  
 var remainText = text.slice(indexNum + 12);
 
 console.log(startingText + replacingText + remainText);
