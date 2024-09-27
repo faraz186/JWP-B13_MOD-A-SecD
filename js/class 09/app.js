@@ -290,15 +290,15 @@ var country_list = [
   "Zimbabwe",
 ];
 
-// var arr = [];
+var arr = [];
 
-// for (var i = 0; i < country_list.length; i++) {
-//   if (country_list[i].includes("tan")) {
-//     arr.push(country_list[i]);
-//   }
-// }
+for (var i = 0; i < country_list.length; i++) {
+  if (country_list[i].includes("tan")) {
+    arr.push(country_list[i]);
+  }
+}
 
-// console.log(arr);
+console.log(arr);
 
 
 // head tail program
