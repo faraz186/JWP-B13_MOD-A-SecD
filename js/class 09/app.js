@@ -42,23 +42,23 @@ document.write(
   `Devices: <br> ${devices[0]},${devices[1]},${devices[2]},${devices[3]} <br> <br>`
 );
 
-// for (var i = devices.length - 1; i >= 0; i--) {
-//   document.write(`Out: <br> ${devices[i]} <br>`);
-// }
+for (var i = devices.length - 1; i >= 0; i--) {
+  document.write(`Out: <br> ${devices[i]} <br>`);
+}
 
-// Array (Join method)
+Array (Join method)
 
-// var arr = [10, "faraz", 30, true, 50];
+var arr = [10, "faraz", 30, true, 50];
 
-// var singleElement = arr.join(" ");
+var singleElement = arr.join(" ");
 
-// console.log(singleElement);
+console.log(singleElement);
 
-// String (.startsWith method)
+String (.startsWith method)
 
-// var str = "hello world";
+var str = "hello world";
 
-// console.log(str.startsWith("z"));
+console.log(str.startsWith("z"));
 
 // String (.endssWith method)
 
