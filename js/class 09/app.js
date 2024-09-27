@@ -4,7 +4,7 @@ console.log("previous array", colors);
 
 var userInput = prompt("Enter a color to the begining of an array");
 
-var userInput1 = prompt("Enter a color to the end of an array ");
+var userInput1 = prompt("Enter a color to the end of an array ");  
 
 colors.unshift(userInput);
 
