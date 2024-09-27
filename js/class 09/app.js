@@ -72,15 +72,15 @@ console.log(str.startsWith("z"));
 
 // String (.endssWith method)
 
-// var str = "hello world";
+var str = "hello world";
 
-// console.log(str.endsWith("f"));
+console.log(str.endsWith("f"));
 
-// String (.includes method)
+String (.includes method)
 
-// var str = "hello  world";
+var str = "hello  world";
 
-// console.log(str.includes("  "));
+console.log(str.includes("  "));
 
 var country_list = [
   "Afghanistan",
