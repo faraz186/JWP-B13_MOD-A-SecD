@@ -26,6 +26,8 @@ colors.splice(userInput, deleteInput);
 
 console.log("current array", colors);
 
+
+
 var mobileArr = ["Apple", "Samsung", "Motorola", "Nokia", "Sony", "Haier"];
 
 document.write(`<select><option>${mobileArr[0]}</option>
@@ -35,6 +37,8 @@ document.write(`<select><option>${mobileArr[0]}</option>
     <option>${mobileArr[4]}</option>
 
     </select>`);
+
+
 
 var devices = ["keyboard", "mouse", "printer", "monitor"];
 
@@ -46,7 +50,9 @@ for (var i = devices.length - 1; i >= 0; i--) {
   document.write(`Out: <br> ${devices[i]} <br>`);
 }
 
-Array (Join method)
+
+
+// Array (Join method)
 
 var arr = [10, "faraz", 30, true, 50];
 
@@ -54,11 +60,15 @@ var singleElement = arr.join(" ");
 
 console.log(singleElement);
 
-String (.startsWith method)
+
+
+// String (.startsWith method)
 
 var str = "hello world";
 
 console.log(str.startsWith("z"));
+
+
 
 // String (.endssWith method)
 
