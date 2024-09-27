@@ -24,23 +24,23 @@ var deleteInput = +prompt("Enter delete elements");
 
 colors.splice(userInput, deleteInput);
 
-// console.log("current array", colors);
+console.log("current array", colors);
 
-// var mobileArr = ["Apple", "Samsung", "Motorola", "Nokia", "Sony", "Haier"];
+var mobileArr = ["Apple", "Samsung", "Motorola", "Nokia", "Sony", "Haier"];
 
-// document.write(`<select><option>${mobileArr[0]}</option>
-//     <option>${mobileArr[1]}</option>
-//     <option>${mobileArr[2]}</option>
-//     <option>${mobileArr[3]}</option>
-//     <option>${mobileArr[4]}</option>
+document.write(`<select><option>${mobileArr[0]}</option>
+    <option>${mobileArr[1]}</option>
+    <option>${mobileArr[2]}</option>
+    <option>${mobileArr[3]}</option>
+    <option>${mobileArr[4]}</option>
 
-//     </select>`);
+    </select>`);
 
-// var devices = ["keyboard", "mouse", "printer", "monitor"];
+var devices = ["keyboard", "mouse", "printer", "monitor"];
 
-// document.write(
-//   `Devices: <br> ${devices[0]},${devices[1]},${devices[2]},${devices[3]} <br> <br>`
-// );
+document.write(
+  `Devices: <br> ${devices[0]},${devices[1]},${devices[2]},${devices[3]} <br> <br>`
+);
 
 // for (var i = devices.length - 1; i >= 0; i--) {
 //   document.write(`Out: <br> ${devices[i]} <br>`);
