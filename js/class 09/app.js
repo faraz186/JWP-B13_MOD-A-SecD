@@ -338,13 +338,11 @@ for (var i = 0; i < input; i++) {
 console.log(password);
 
 
+var num = 10;
 
+num = num -  5;
 
-// var num = 10;
-
-// num = num -  5;
-
-// console.log(num);
+console.log(num);
 
 
 
@@ -363,10 +361,3 @@ if(userInput===finalWord){
 }else{
     alert(`It's not a palindrome`)
 }
-
-
-
-
-
-
-
