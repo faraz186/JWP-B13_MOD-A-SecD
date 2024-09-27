@@ -304,38 +304,38 @@ console.log(arr);
 // head tail program
 
 
-// var headUser = prompt("Enter head username");
+var headUser = prompt("Enter head username");
 
-// var tailUser = prompt("Enter tail username");
+var tailUser = prompt("Enter tail username");
 
-// var toss = Math.random();
+var toss = Math.random();
 
-// var selectedValue = Math.round(toss);
+var selectedValue = Math.round(toss);
 
-// if (selectedValue === 0) {
-//   alert(headUser, " win the toss");
-// } else {
-//   alert(tailUser, " win the toss");
-// }
+if (selectedValue === 0) {
+  alert(headUser, " win the toss");
+} else {
+  alert(tailUser, " win the toss");
+}
 
 
 // Password program
 
 
-// var input = +prompt("enter passsword range");
+var input = +prompt("enter passsword range");
 
 
-// var randomValues =
-//   "ABCDEFGHIJKLMNOPQRSTUVWXYZbacdefghijklmnopqrstuvwxyz1324567890!@#$&*";
+var randomValues =
+  "ABCDEFGHIJKLMNOPQRSTUVWXYZbacdefghijklmnopqrstuvwxyz1324567890!@#$&*";
 
-// var password = "";
+var password = "";
 
-// for (var i = 0; i < input; i++) {
-//   var randomNumbers = Math.floor(Math.random() * randomValues.length);
-//   password += randomValues[randomNumbers];
-// }
+for (var i = 0; i < input; i++) {
+  var randomNumbers = Math.floor(Math.random() * randomValues.length);
+  password += randomValues[randomNumbers];
+}
 
-// console.log(password);
+console.log(password);
 
 
 
