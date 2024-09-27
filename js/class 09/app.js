@@ -10,7 +10,7 @@ colors.unshift(userInput);
 
 colors.push(userInput1);
 
-colors.unshift("black", "cyan");
+colors.unshift("black", "cyan");  
 
 colors.shift();
 
