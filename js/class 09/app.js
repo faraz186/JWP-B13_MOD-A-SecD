@@ -10,19 +10,19 @@ colors.unshift(userInput);
 
 colors.push(userInput1);
 
-// colors.unshift("black", "cyan");
+colors.unshift("black", "cyan");
 
-// colors.shift();
+colors.shift();
 
-// colors.pop();
+colors.pop();
 
-// var colors = ["red", "green", "blue", "white"];
+var colors = ["red", "green", "blue", "white"];
 
-// var userInput = +prompt("starting position of array index");
+var userInput = +prompt("starting position of array index");
 
-// var deleteInput = +prompt("Enter delete elements");
+var deleteInput = +prompt("Enter delete elements");
 
-// colors.splice(userInput, deleteInput);
+colors.splice(userInput, deleteInput);
 
 // console.log("current array", colors);
 
