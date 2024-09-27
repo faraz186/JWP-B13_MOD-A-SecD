@@ -1,14 +1,14 @@
-// var colors = ["red", "green", "blue", "white"];
+var colors = ["red", "green", "blue", "white"];
 
-// console.log("previous array", colors);
+console.log("previous array", colors);
 
-// var userInput = prompt("Enter a color to the begining of an array");
+var userInput = prompt("Enter a color to the begining of an array");
 
-// var userInput1 = prompt("Enter a color to the end of an array ");
+var userInput1 = prompt("Enter a color to the end of an array ");
 
-// colors.unshift(userInput);
+colors.unshift(userInput);
 
-// colors.push(userInput1);
+colors.push(userInput1);
 
 // colors.unshift("black", "cyan");
 
