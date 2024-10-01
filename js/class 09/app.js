@@ -19,7 +19,7 @@ colors.pop();
 var colors = ["red", "green", "blue", "white"];  
 
 var userInput = +prompt("starting position of array index");
-
+  
 var deleteInput = +prompt("Enter delete elements");
 
 colors.splice(userInput, deleteInput);
