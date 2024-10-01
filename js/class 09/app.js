@@ -16,7 +16,7 @@ colors.shift();
 
 colors.pop();
 
-var colors = ["red", "green", "blue", "white"];
+var colors = ["red", "green", "blue", "white"];  
 
 var userInput = +prompt("starting position of array index");
 
