@@ -1,4 +1,4 @@
-var colors = ["red", "green", "blue", "white"];
+var colors = ["red", "green", "blue", "white"];  
   
 console.log("previous array", colors);  
 
