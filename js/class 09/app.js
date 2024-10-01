@@ -12,7 +12,7 @@ colors.push(userInput1);
 
 colors.unshift("black", "cyan");      
 
-colors.shift();  
+colors.shift();    
 
 colors.pop();
 
