@@ -1,6 +1,6 @@
 var colors = ["red", "green", "blue", "white"];
   
-console.log("previous array", colors);
+console.log("previous array", colors);  
 
 var userInput = prompt("Enter a color to the begining of an array");
 
