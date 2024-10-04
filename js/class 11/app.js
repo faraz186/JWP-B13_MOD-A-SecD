@@ -1,7 +1,7 @@
 // function
 
 function greet() {
-  console.log("function call..");
+  console.log("function call..");  
 }
   
 // greet(); // function calling
