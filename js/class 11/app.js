@@ -44,6 +44,7 @@ function message(name, age, city) {
 
 message("faraz", 23, "karachi");
 
+
 // multplication table program
 
 function multiplicationTable(table, range) {
