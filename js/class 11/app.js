@@ -42,7 +42,7 @@ function message(name, age, city) {
   console.log(
     `Hello My name is ${name}. I am ${age} years old and I lived in ${city}.`
   );
-}
+}   
 
 message("faraz", 23, "karachi");
 
