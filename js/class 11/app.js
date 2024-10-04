@@ -20,8 +20,7 @@ function sum() {
 sum(); 
 
 
-function welcome(greet) {
-  parameter;  
+function welcome(greet) {      // parameter;  
   console.log(greet);  
 }
 
