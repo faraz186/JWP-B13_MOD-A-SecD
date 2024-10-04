@@ -21,7 +21,7 @@ sum();
 
 
 function welcome(greet) {
-  parameter;
+  parameter;  
   console.log(greet);  
 }
 
