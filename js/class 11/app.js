@@ -3,7 +3,7 @@
 function greet() {
   console.log("function call..");
 }
-
+  
 // greet(); // function calling
 
 greet();
