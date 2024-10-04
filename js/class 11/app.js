@@ -50,6 +50,7 @@ message("faraz", 23, "karachi");
 
 // multplication table program
 
+
 function multiplicationTable(table, range) {
   for (var i = 1; i <= range; i++) {
     document.write(`${table} x ${i} = ${table * i} <br>`);
