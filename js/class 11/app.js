@@ -1,4 +1,4 @@
-// function  
+ // function  
 
 function greet() {
   console.log("function call..");  
