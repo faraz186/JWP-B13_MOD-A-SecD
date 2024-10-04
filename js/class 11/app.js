@@ -5,7 +5,7 @@ function greet() {
 }
   
 // greet(); // function calling
-
+  
 greet();
 greet();  
 greet();
