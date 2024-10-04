@@ -75,7 +75,7 @@ function greet(message) {
 }
 
 var result = greet("function call..");
-
+  
 console.log(result);
 
 function multi(a, b) {
