@@ -38,6 +38,7 @@ function add(num1, num2) {
 
 add(+prompt("Enter first number"), +prompt("Enter second number"));
 
+
 function message(name, age, city) {
   console.log(
     `Hello My name is ${name}. I am ${age} years old and I lived in ${city}.`
