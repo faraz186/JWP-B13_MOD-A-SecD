@@ -18,7 +18,7 @@ function sum() {
 }  
 
 sum(); 
-
+  
 
 function welcome(greet) {      // parameter;  
   console.log(greet);  
