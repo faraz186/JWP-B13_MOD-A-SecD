@@ -89,6 +89,8 @@ var get = multi(5, 6);
 
 console.log(get + 10);
 
+
+
 // Calculator program
 
 function calc(num1, num2, operator) {
