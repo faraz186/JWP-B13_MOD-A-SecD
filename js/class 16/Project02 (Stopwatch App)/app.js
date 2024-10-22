@@ -7,7 +7,7 @@ var min = 0;
 var sec = 0;
 var msec = 0;
 var interval;
-
+  
 function timer() {
   msec++;
   msecHeading.innerHTML = msec;
