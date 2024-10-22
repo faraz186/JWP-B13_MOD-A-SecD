@@ -17,7 +17,7 @@ function timer() {
   if (msec >= 100) {
     sec++;
     secHeading.innerHTML = sec;
-    msec = 0;
+    msec = 0;  
 
     if (sec >= 60) {
       min++;
