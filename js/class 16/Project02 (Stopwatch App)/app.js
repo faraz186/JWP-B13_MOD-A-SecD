@@ -51,7 +51,7 @@ function reset() {
   msec = 0;
   hourHeading.innerHTML = hour;
   minHeading.innerHTML = min;
-  secHeading.innerHTML = sec;
+  secHeading.innerHTML = sec;  
   msecHeading.innerHTML = msec;
   stop();
 }
