@@ -1,6 +1,6 @@
 var hourHeading = document.getElementById("hour");  
 var minHeading = document.getElementById("min");  
-var secHeading = document.getElementById("sec");    
+var secHeading = document.getElementById("sec");      
 var msecHeading = document.getElementById("msec");      
 var hour = 0;
 var min = 0;
