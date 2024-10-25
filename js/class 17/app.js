@@ -8,17 +8,17 @@ console.log(divELement.getAttribute("class"));
 
 var anchor = document.getElementById("link");
 
-// anchor.setAttribute("class", "link");
+anchor.setAttribute("class", "link");
 
-// // console.log();
+// console.log();
 
-// var btn = document.getElementById("btn");
+var btn = document.getElementById("btn");
 
-// btn.setAttribute("class", "btn");
+btn.setAttribute("class", "btn");
 
-// btn.setAttribute("onclick", "greet()");
+btn.setAttribute("onclick", "greet()");
 
-// console.log(btn.attributes[2].value);
+console.log(btn.attributes[2].value);
 
 // function greet() {
 //   alert("alert calls...");
