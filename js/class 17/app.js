@@ -54,22 +54,22 @@ console.log(div);
 
 var btnElement = document.createElement("button");
 
-// var btnText = document.createTextNode("signup");
+var btnText = document.createTextNode("signup");
 
-// var div = document.getElementById("main");
+var div = document.getElementById("main");
 
-// btnElement.appendChild(btnText);
+btnElement.appendChild(btnText);
 
-// btnElement.setAttribute("onclick", "signUp(this)");
+btnElement.setAttribute("onclick", "signUp(this)");
 
-// div.appendChild(btnElement);
+div.appendChild(btnElement);
 
-// console.log(btnElement);
+console.log(btnElement);
 
 
-// function signUp(e) {
-//   console.log(e);
-// }
+function signUp(e) {
+  console.log(e);
+}
 
 // CRUD Opeartion
 
