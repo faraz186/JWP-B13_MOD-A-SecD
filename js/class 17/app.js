@@ -1,12 +1,12 @@
-// // console.log(document.childNodes[1].childNodes[2].childNodes[3]);
+// console.log(document.childNodes[1].childNodes[2].childNodes[3]);
 
-// var divELement = document.getElementById("main");
+var divELement = document.getElementById("main");
 
-// console.log(divELement.hasAttribute("class"));
+console.log(divELement.hasAttribute("class"));
 
-// console.log(divELement.getAttribute("class"));
+console.log(divELement.getAttribute("class"));
 
-// var anchor = document.getElementById("link");
+var anchor = document.getElementById("link");
 
 // anchor.setAttribute("class", "link");
 
