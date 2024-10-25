@@ -42,17 +42,17 @@ div.appendChild(h1ELement);
 
 console.log(h1ELement);
 
-// console.log(h1Text);
+console.log(h1Text);
 
 var div = document.getElementById("main");
 
-// div.className = "container";
+div.className = "container";
 
-// div.setAttribute("class", "container");
+div.setAttribute("class", "container");
 
-// console.log(div);
+console.log(div);
 
-// var btnElement = document.createElement("button");
+var btnElement = document.createElement("button");
 
 // var btnText = document.createTextNode("signup");
 
