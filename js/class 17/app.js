@@ -36,15 +36,15 @@ var h1Text =
 
 document.createTextNode("hello world");
 
-// h1ELement.appendChild(h1Text);
+h1ELement.appendChild(h1Text);
 
-// div.appendChild(h1ELement);
+div.appendChild(h1ELement);
 
-// console.log(h1ELement);
+console.log(h1ELement);
 
-// // console.log(h1Text);
+// console.log(h1Text);
 
-// var div = document.getElementById("main");
+var div = document.getElementById("main");
 
 // div.className = "container";
 
