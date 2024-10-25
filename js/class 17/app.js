@@ -20,21 +20,21 @@ btn.setAttribute("onclick", "greet()");
 
 console.log(btn.attributes[2].value);
 
-// function greet() {
-//   alert("alert calls...");
-// }
+function greet() {
+  alert("alert calls...");
+}
 
-// var div =
+var div =
 
-// document.getElementById("main");
+document.getElementById("main");
 
-// var h1ELement =
+var h1ELement =
 
-// document.createElement("h1");
+document.createElement("h1");
 
-// var h1Text =
+var h1Text =
 
-// document.createTextNode("hello world");
+document.createTextNode("hello world");
 
 // h1ELement.appendChild(h1Text);
 
