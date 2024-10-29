@@ -17,7 +17,7 @@ studentObj.courses = ["html", "css", "js", "react"];
 studentObj.qualification = {
   Education: "bachelors",
   CGPA: "3.2",
-  Address: {
+  Address: {  
     city: "karachi",
     country: ["pakistan", "turkey", "india"],
   },
