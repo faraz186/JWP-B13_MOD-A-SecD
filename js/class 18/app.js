@@ -12,7 +12,7 @@ var studentObj = {
   stdCity: "karachi",
 };
 
-console.log(studentObj);
+console.log(studentObj);  
 
 studentObj.courses = ["html", "css", "js", "react"];
   
