@@ -2,6 +2,8 @@ var studentArr = ["faraz", 23, 186, "faraz@gmail.com", "karachi"];
 
 console.log(studentArr[2]);
 
+// Objects
+
 var studentObj = {
   stdName: "faraz",
   stdAge: 23,
