@@ -60,7 +60,7 @@ var studentObj = {
   },
   stdAge: 23,
   stdStatus: true,
-  stdCourses: ["html", "css", "js"],
+  stdCourses: ["html", "css", "js"],  
   stdRollNo: 186,
   stdEmail: "faraz@gmail.com",
   stdCity: "karachi",
