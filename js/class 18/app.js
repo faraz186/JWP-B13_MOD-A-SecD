@@ -15,7 +15,7 @@ var studentObj = {
 console.log(studentObj);
 
 studentObj.courses = ["html", "css", "js", "react"];
-
+  
 studentObj.qualification = {
   Education: "bachelors",
   CGPA: "3.2",
