@@ -127,6 +127,7 @@ function saveData() {
   }
 }
 
+
 function deleteAll() {
   try {
     firebase.database().ref("users/-OAx0B2l4QtuFCKB33hS").remove();
@@ -134,6 +135,7 @@ function deleteAll() {
     console.log(error);
   }
 }
+
 
 function editData() {
   try {
@@ -147,11 +149,13 @@ function editData() {
   }
 }
 
+
 // get data from DB
 
 // once() method
 
 // on() method
+
 
 function getData() {
   try {
