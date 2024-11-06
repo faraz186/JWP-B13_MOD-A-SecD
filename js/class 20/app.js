@@ -95,6 +95,7 @@ console.log(JSON.parse(getValue));
 
 // clear() // delete all data from local storage
 
+
 // Firebase Database
 
 // CRUD Operation
