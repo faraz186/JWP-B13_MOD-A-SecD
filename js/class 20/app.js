@@ -1,6 +1,6 @@
 const firebaseConfig = {
   apiKey: "AIzaSyDbBxA9XbagwrgWGoB7OmXvMQdHqGHzJZo",
-  authDomain: "fir-auth-aa688.firebaseapp.com",
+  authDomain: "fir-auth-aa688.firebaseapp.com",  
   databaseURL: "https://fir-auth-aa688-default-rtdb.firebaseio.com",
   projectId: "fir-auth-aa688",
   storageBucket: "fir-auth-aa688.firebasestorage.app",
