@@ -36,6 +36,8 @@ function signUp() {
   }
 }
 
+
+
 function Login() {
   try {
     var email = document.getElementById("Loginemail").value;
